@@ -1,0 +1,80 @@
+{
+  "employeeName": "Avery Rush",
+  "orders": [
+    {
+      "customer": "Stacey",
+      "items": [
+        {
+          "name": "Cheeseburger",
+          "price": 6.00,
+          "quantity": 5
+        },
+        {
+          "name": "Double Cheeseburger",
+          "price": 6.50,
+          "quantity": 3
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 1
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "customer": "Pablo",
+      "items": [
+        {
+          "name": "Double Cheeseburger",
+          "price": 6.50,
+          "quantity": 3
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "customer": "Bobbie",
+      "items": [
+        {
+          "name": "Fries",
+          "price": 1.50,
+          "quantity": 2
+        },
+        {
+          "name": "Crispy Fries",
+          "price": 2.00,
+          "quantity": 5
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Joann",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 1
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}

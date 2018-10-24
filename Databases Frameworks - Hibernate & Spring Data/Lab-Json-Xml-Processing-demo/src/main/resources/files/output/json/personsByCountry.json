@@ -1,0 +1,36 @@
+[
+  {
+    "firstName": "Ivan",
+    "lastName": "Georgiev",
+    "address": {
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "street": "Mladost"
+    },
+    "phoneNumbers": [
+      {
+        "number": "54262152"
+      },
+      {
+        "number": "5425325"
+      }
+    ]
+  },
+  {
+    "firstName": "Milcho",
+    "lastName": "Georgiev",
+    "address": {
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "street": "Mladost"
+    },
+    "phoneNumbers": [
+      {
+        "number": "5425325"
+      },
+      {
+        "number": "54262152"
+      }
+    ]
+  }
+]

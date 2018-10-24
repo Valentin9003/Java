@@ -1,0 +1,8 @@
+ADVANTAGES:
+	- No NULL values.
+	- No repeating information.
+	- Foreign keys involved.
+	- Reduce changes in schema on superclass changes.
+
+DISADVANTAGES:
+	- Multiple JOINS - for deep hierarchies it may give poor performance

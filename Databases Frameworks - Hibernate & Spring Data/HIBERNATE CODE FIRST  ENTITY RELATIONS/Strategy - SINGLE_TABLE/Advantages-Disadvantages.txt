@@ -1,0 +1,6 @@
+ADVANTAGES:
+	- Minimize joins, gives maximum performance even for classes involved in deep hierarchies. 
+
+DISADVANTAGES:
+	- Requires columns to be either added or removed when the members in the hierarchy change.
+	- May contain multiple NULL values.
